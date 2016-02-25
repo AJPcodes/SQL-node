@@ -1,0 +1,23 @@
+{
+  "name": "sql-node",
+  "version": "1.0.0",
+  "description": "Student project learning Node with SQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJPcodes/SQL-node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AJPcodes/SQL-node/issues"
+  },
+  "homepage": "https://github.com/AJPcodes/SQL-node#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.1"
+  }
+}
